@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Flutter, Dynamic Programing*
 
-- 👨‍💻 All of my projects are available at [https://github.com/gourab9817](https://github.com/gourab9817)
+- 👨‍💻 All of my projects are available at [https://github.com/Aviijeet12](https://github.com/Aviijeet12)
 
 - 📝 I regularly write articles on [https://x.com/gourabC08](https://x.com/gourabC08)
 
