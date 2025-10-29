@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avijit Pratap Singh</h1>
+<h1 align="center">Hi, I'm Avijit Pratap Singh</h1>
 <h3 align="center">Final Year CS Student at VIT | DevOps & Cloud Enthusiast | Android App Developer | OCI & IBM Certified</h3>
 
 <p align="left"> 
@@ -23,17 +23,8 @@
   <a href="https://www.instagram.com/avijitt.12/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/avijit_singh12" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/avijitpratapsin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
   <a href="https://leetcode.com/u/avijit_1209/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/avijitpreekw/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
   </a>
 </p>
 
