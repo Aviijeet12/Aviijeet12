@@ -69,8 +69,5 @@
 ## 🔥 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviijeet12&layout=compact&theme=dracula)
 
-## 🏆 GitHub Trophies:
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Aviijeet12&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📈 Contribution Graph:
 [![Avijit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aviijeet12&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
