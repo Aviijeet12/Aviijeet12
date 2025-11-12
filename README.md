@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Aviijeet12](https://github.com/Aviijeet12)
 
-- 🧠 Know more about me at my portfolio: [aviijitsingh.dev](https://aviijitsingh.dev)
+- 🧠 Know more about me at my portfolio: [avijitsingh.dev](https://avijitsingh.dev)
 
 - 📜 Certifications: **IBM DevOps**, **Oracle Gen AI**, **Oracle Architect Associate**
 
