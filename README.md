@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aviijeet12&label=Profile%20views&color=0e75b6&style=flat" alt="Aviijeet12" /> 
 </p>
 
-- 🌱 I’m currently learning **DevOps, Flutter, Mobile App Development, Docker, and CI/CD Pipelines**
+- 🌱 I’m currently learning **DevOps, Mobile App Development, Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [github.com/Aviijeet12](https://github.com/Aviijeet12)
 
