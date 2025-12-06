@@ -38,9 +38,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviijeet12&layout=compact&theme=dracula" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviijeet12&theme=dracula" />
