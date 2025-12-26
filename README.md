@@ -1,9 +1,17 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Avijit" 
-    alt="Typing Animation"
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  &nbsp;
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=32&weight=800&center=true&vCenter=true&width=820&height=70&lines=Hi%2C+I'm+Avijit;Software+Engineer;DevOps+and+Cloud+Developer"
   />
 </h1>
+
+
+
+
+
+
+
 
 <h3 align="center">I’m a Software Developer</h3>
 
