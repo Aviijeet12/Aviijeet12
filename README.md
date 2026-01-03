@@ -7,18 +7,14 @@
 </h1>
 
 <h3 align="center">
-
-<span style="padding: 10px 18px; border-radius: 14px; background: linear-gradient(135deg,#111827,#020617); color:#ffffff; font-weight:700;">
-  Software Engineer • DevOps & Cloud Developer
-</span>
-
+  <span style="padding: 10px 18px; border-radius: 14px; background: linear-gradient(135deg,#111827,#020617); color:#ffffff; font-weight:700;">
+    Software Engineer • DevOps & Cloud Developer
+  </span>
 </h3>
 
 <p align="center" style="font-size: 14px;">
   <i>Designing scalable systems, reliable deployments, and high-performance applications.</i>
 </p>
-
-
 
 <br>
 
@@ -29,6 +25,7 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=java" width="65"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="65"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="65"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="65"/>
 
   <!-- Frameworks & Libraries -->
@@ -36,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
   <img src="https://skillicons.dev/icons?i=express" width="65"/>
+  <img src="https://skillicons.dev/icons?i=threejs" width="65"/>
   <img src="https://skillicons.dev/icons?i=html" width="65"/>
   <img src="https://skillicons.dev/icons?i=css" width="65"/>
 
@@ -46,6 +44,8 @@
   <img src="https://skillicons.dev/icons?i=redis" width="65"/>
 
   <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=firebase" width="65"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="65"/>
   <img src="https://skillicons.dev/icons?i=git" width="65"/>
   <img src="https://skillicons.dev/icons?i=github" width="65"/>
   <img src="https://skillicons.dev/icons?i=docker" width="65"/>
