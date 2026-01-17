@@ -58,8 +58,3 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviijeet12&theme=github-dark&radius=18&area=true&hide_border=true"/>
-</p>
