@@ -33,7 +33,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
   <img src="https://skillicons.dev/icons?i=express" width="65"/>
-  <img src="https://skillicons.dev/icons?i=threejs" width="65"/>
   <img src="https://skillicons.dev/icons?i=html" width="65"/>
   <img src="https://skillicons.dev/icons?i=css" width="65"/>
 
@@ -45,12 +44,10 @@
 
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=firebase" width="65"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="65"/>
   <img src="https://skillicons.dev/icons?i=git" width="65"/>
   <img src="https://skillicons.dev/icons?i=github" width="65"/>
   <img src="https://skillicons.dev/icons?i=docker" width="65"/>
   <img src="https://skillicons.dev/icons?i=aws" width="65"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="65"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="65"/>
   <img src="https://skillicons.dev/icons?i=supabase" width="65"/>
 
