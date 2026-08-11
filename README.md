@@ -99,7 +99,7 @@
     />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/avijit12">
+  <a href="https://www.instagram.com/avijitt.12">
   <img
     src="https://cdn.simpleicons.org/instagram/E4405F"
     width="42"
@@ -119,7 +119,7 @@
   &nbsp; • &nbsp;
   <a href="https://leetcode.com/u/avijit_1209">LeetCode</a>
   &nbsp; • &nbsp;
-  <a href="https://www.instagram.com/avijit12">Instagram</a>
+  <a href="https://www.instagram.com/avijitt.12">Instagram</a>
   
 </p>
 
