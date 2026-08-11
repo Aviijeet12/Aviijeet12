@@ -81,15 +81,6 @@
     />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Aviijeet12">
-    <img
-      src="https://cdn.simpleicons.org/github/FFFFFF"
-      width="42"
-      height="42"
-      alt="GitHub"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/avijit_1209">
     <img
       src="https://cdn.simpleicons.org/leetcode/FFA116"
@@ -114,8 +105,6 @@
   <a href="https://avijitsingh.dev">Portfolio</a>
   &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/in/avijit12">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Aviijeet12">GitHub</a>
   &nbsp; • &nbsp;
   <a href="https://leetcode.com/u/avijit_1209">LeetCode</a>
   &nbsp; • &nbsp;
